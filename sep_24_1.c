@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 
 int main() {
     char str[200];
@@ -22,4 +21,5 @@ int main() {
     printf("Total number of words- %d\n", words);
 
     return 0;
+
 }
