@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 
 int main() {
     char str[200];
@@ -23,4 +22,5 @@ int main() {
     printf("now the sentence is - %s\n", str);
 
     return 0;
+
 }
