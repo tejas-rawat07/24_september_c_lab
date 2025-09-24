@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
 
 int main() {
     char str[200];
@@ -26,4 +25,5 @@ int main() {
     printf("special characters- %d\n", special);
 
     return 0;
+
 }
